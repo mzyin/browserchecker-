@@ -7,4 +7,4 @@ public class HelloWorldApplet extends Applet {
     }
 }
 
-//hello
+//helloworld
